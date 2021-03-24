@@ -1,7 +1,8 @@
-# Bike-sharing-organisation
+###  Bike-sharing-organisation
 Bike sharing Organisation (Baywheels and Bluebikes dataset)
 
-Analysis:
+### Analysis:
+---
 1. How many trips were there in each month of each year?
 ---
 2.Which stations are showing the greatest growth rates?
